@@ -1,0 +1,2 @@
+C:\Users\Labor\OneDrive\Escritorio\GLSL_Lighting\Debug\TemplateProject.exe
+C:\Users\juane\Documents\Compu grafica OPENGL\GLSL_Lighting 2\GLSL_Lighting 2\Debug\TemplateProject.exe
