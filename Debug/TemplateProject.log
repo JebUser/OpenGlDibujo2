@@ -1,3 +1,5 @@
 ﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
-  Malla.cpp
-  TemplateProject.vcxproj -> C:\Users\juane\Documents\Compu grafica OPENGL\GLSL_Lighting 2\GLSL_Lighting 2\Debug\TemplateProject.exe
+  main.cpp
+C:\Users\juane\Documents\Compu grafica OPENGL\GLSL_Lighting 2\OpenGlDibujo2\main.cpp(42,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\juane\Documents\Compu grafica OPENGL\GLSL_Lighting 2\OpenGlDibujo2\main.cpp(42,18): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  TemplateProject.vcxproj -> C:\Users\juane\Documents\Compu grafica OPENGL\GLSL_Lighting 2\OpenGlDibujo2\Debug\TemplateProject.exe

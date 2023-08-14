@@ -71,6 +71,20 @@ public:
          glutSolidCube(0.5);
          glPopMatrix();
 
+         glPushMatrix();
+         //glRotated(45, 0, 0, 1);
+         glTranslated(-3.0, -3.0, 0.0);
+         glRotatef(25, 0, 0, 1);
+         glutWireCube(0.6);
+         glPopMatrix();
+
+         glPushMatrix();
+         //glRotated(45, 0, 0, 1);
+         glTranslated(3.0, -3.0, 0.0);
+         glRotatef(25, 0, 0, 1);
+         glutWireCube(0.6);
+         glPopMatrix();
+
 
          miMalla->DibujarMalla(0, 3, 0);
 
